@@ -1,0 +1,419 @@
+{
+  "Food & Beverage": {
+    "Foodservice / HoReCa": {
+      "Single / Individual Spices": [
+        "Chilli",
+        "Turmeric",
+        "Coriander",
+        "Cumin",
+        "Black Pepper",
+        "White Pepper",
+        "Green Cardamom",
+        "Black Cardamom",
+        "Clove",
+        "Cinnamon",
+        "Cassia",
+        "Fennel",
+        "Fenugreek Seed",
+        "Mustard Seed (Black)",
+        "Mustard Seed (Yellow)",
+        "Mustard Seed (Brown)",
+        "Bay Leaf",
+        "Nutmeg",
+        "Mace",
+        "Star Anise",
+        "Carom Seeds (Ajwain)",
+        "Nigella Seeds (Kalonji)",
+        "White Sesame Seeds",
+        "Black Sesame Seeds",
+        "Poppy Seeds",
+        "Dry Ginger",
+        "Dry Garlic",
+        "Tamarind"
+      ],
+      "Blended / Mixed Spices": [
+        "Garam Masala Blends",
+        "Generic Curry Masala Blends",
+        "Biryani Masala Blends",
+        "Pulao Masala Blends",
+        "Sabzi / Vegetable Masala Blends",
+        "Dal Masala Blends",
+        "Meat Masala Blends",
+        "Chicken Masala Blends",
+        "Mutton Masala Blends",
+        "Fish Masala Blends",
+        "Seafood Masala Blends",
+        "Tandoori Masala Blends",
+        "BBQ Masala Blends",
+        "Kebab Masala Blends",
+        "Sambar Masala Blends",
+        "Rasam Masala Blends",
+        "Chaat Masala Blends",
+        "Street-Food Masala Blends",
+        "Pickle Masala Blends",
+        "Regional Punjabi Masala Blends",
+        "Regional Mughlai Masala Blends",
+        "Regional South Indian Masala Blends",
+        "Regional Rajasthani Masala Blends"
+      ],
+      "Seasonings & Flavour Mixes": [
+        "Table Sprinkle Seasonings",
+        "French Fries Seasonings",
+        "Tikka Seasonings",
+        "Kebab Seasonings",
+        "Gravy Booster Seasonings",
+        "Salad Seasonings",
+        "Sandwich Seasonings",
+        "Pizza Seasonings",
+        "Pasta Seasonings",
+        "Indo-Chinese Seasonings",
+        "Fusion Cuisine Seasonings"
+      ],
+      "Spice Derivatives & Extracts": [
+        "Chilli Oleoresin",
+        "Paprika Oleoresin",
+        "Black Pepper Oleoresin",
+        "Garlic Oleoresin",
+        "Onion Oleoresin",
+        "Turmeric Oleoresin",
+        "Capsaicin Extract",
+        "Curcumin Extract",
+        "Piperine Extract",
+        "Mixed Spice Essential Oils"
+      ]
+    },
+    "Food & Beverage Processing": {
+      "Packaged Foods": {
+        "Single / Individual Spices": [
+          "Chilli Powder",
+          "Turmeric Powder",
+          "Coriander Powder",
+          "Cumin Powder",
+          "Black Pepper Powder",
+          "Garlic Powder",
+          "Onion Powder",
+          "Dry Ginger Powder",
+          "White Sesame Seeds",
+          "Black Sesame Seeds",
+          "Carom Seeds (Ajwain)",
+          "Nigella Seeds (Kalonji)",
+          "Fenugreek Seed",
+          "Mustard Seed"
+        ],
+        "Blended / Mixed Spices": [
+          "Snack Masala Blends",
+          "Namkeen Masala Blends",
+          "Bhujia Masala Blends",
+          "Chips Masala Blends",
+          "Instant Noodle Masala Blends",
+          "Instant Pasta Masala Blends",
+          "Instant Curry Masala Blends",
+          "Regional Snack Masala Blends"
+        ],
+        "Seasonings & Flavour Mixes": [
+          "Extruded Snack Seasonings",
+          "Coated Nut Seasonings",
+          "Popcorn Seasonings",
+          "Pellets Seasonings",
+          "Instant Soup Seasonings"
+        ],
+        "Spice Derivatives & Extracts": [
+          "Chilli Oleoresin",
+          "Paprika Oleoresin",
+          "Turmeric Oleoresin",
+          "Black Pepper Oleoresin",
+          "Garlic Oleoresin",
+          "Onion Oleoresin",
+          "Encapsulated Snack Flavours",
+          "Spray-Dried Spice Powders"
+        ]
+      },
+      "Meat & Poultry Processing": {
+        "Single / Individual Spices": [
+          "Black Pepper",
+          "White Pepper",
+          "Chilli",
+          "Coriander",
+          "Cumin",
+          "Garlic",
+          "Onion",
+          "Mustard Seed",
+          "Fennel",
+          "Rosemary-Type Spice Herbs",
+          "Thyme-Type Spice Herbs",
+          "Bay Leaf"
+        ],
+        "Blended / Mixed Spices": [
+          "Sausage Spice Blends",
+          "Ham Spice Blends",
+          "Salami Spice Blends",
+          "Tandoori Marinade Blends",
+          "Grill Marinade Blends",
+          "Kebab Marinade Blends",
+          "Curry Marinade Blends"
+        ],
+        "Seasonings & Flavour Mixes": [
+          "Brine Seasonings",
+          "Injection Seasonings",
+          "Coating Seasonings",
+          "Breading Seasonings"
+        ],
+        "Spice Derivatives & Extracts": [
+          "Smoke Flavour Extracts",
+          "Grill Flavour Extracts",
+          "Pepper Oleoresin",
+          "Chilli Oleoresin",
+          "Antioxidant Spice Extracts"
+        ]
+      },
+      "Ready-to-Eat / Ready-to-Cook Meals": {
+        "Single / Individual Spices": [
+          "Chilli",
+          "Turmeric",
+          "Coriander",
+          "Cumin",
+          "Black Pepper",
+          "Green Cardamom",
+          "Clove",
+          "Cinnamon",
+          "Bay Leaf",
+          "Dry Ginger",
+          "Dry Garlic"
+        ],
+        "Blended / Mixed Spices": [
+          "Curry Base Blends",
+          "Dal Base Blends",
+          "Biryani Base Blends",
+          "Pulao Base Blends",
+          "Paneer Gravy Blends",
+          "Vegetable Gravy Blends",
+          "Sambar Base Blends",
+          "Rasam Base Blends"
+        ],
+        "Seasonings & Flavour Mixes": [
+          "RTE Top-Up Seasonings",
+          "RTC Masala Sachets",
+          "Microwave Meal Flavour Boosters"
+        ],
+        "Spice Derivatives & Extracts": [
+          "Chilli Oleoresin",
+          "Turmeric Oleoresin",
+          "Pepper Oleoresin",
+          "Mixed Curry Oleoresins",
+          "Encapsulated Curry Flavours"
+        ]
+      },
+      "Sauces, Ketchups, Dips & Chutneys": {
+        "Single / Individual Spices": [
+          "Chilli",
+          "Garlic",
+          "Ginger",
+          "Cumin",
+          "Coriander",
+          "Mustard Seed",
+          "Black Pepper",
+          "Fenugreek Seed"
+        ],
+        "Blended / Mixed Spices": [
+          "Chaat Masala Blends",
+          "Street-Food Chutney Blends",
+          "Tandoori Sauce Spice Blends",
+          "Indo-Chinese Sauce Spice Blends",
+          "Peri-Peri Sauce Spice Blends"
+        ],
+        "Seasonings & Flavour Mixes": [
+          "Dip Seasonings",
+          "Sandwich Spread Seasonings",
+          "Burger Sauce Seasonings"
+        ],
+        "Spice Derivatives & Extracts": [
+          "Capsaicin Extract",
+          "Chilli Oleoresin",
+          "Paprika Oleoresin",
+          "Turmeric Extract",
+          "Garlic Oleoresin",
+          "Onion Oleoresin"
+        ]
+      },
+      "Bakery & Confectionery": {
+        "Single / Individual Spices": [
+          "Cinnamon",
+          "Cassia",
+          "Nutmeg",
+          "Mace",
+          "Clove",
+          "Green Cardamom",
+          "Fennel",
+          "Dry Ginger"
+        ],
+        "Blended / Mixed Spices": [
+          "Chai Masala Blends",
+          "Cake Spice Blends",
+          "Festive Dessert Spice Blends",
+          "Indian Mithai Masala Blends"
+        ],
+        "Seasonings & Flavour Mixes": [
+          "Garlic Bread Seasonings",
+          "Savoury Bun Seasonings",
+          "Crouton Seasonings"
+        ],
+        "Spice Derivatives & Extracts": [
+          "Cinnamon Extract",
+          "Cardamom Extract",
+          "Clove Extract",
+          "Ginger Extract"
+        ]
+      },
+      "Beverages": {
+        "Single / Individual Spices": [
+          "Green Cardamom",
+          "Clove",
+          "Cinnamon",
+          "Dry Ginger",
+          "Black Pepper",
+          "Fennel",
+          "Nutmeg",
+          "Star Anise"
+        ],
+        "Blended / Mixed Spices": [
+          "Masala Chai Blends",
+          "Kadha Blends",
+          "Spiced Milk Blends",
+          "Badam Drink Masala Blends",
+          "Herbal Detox Drink Blends"
+        ],
+        "Seasonings & Flavour Mixes": [
+          "Tea Premix Seasonings",
+          "Vending Machine Premix Seasonings",
+          "RTD Beverage Flavour Blends"
+        ],
+        "Spice Derivatives & Extracts": [
+          "Cardamom Extract",
+          "Ginger Extract",
+          "Cinnamon Extract",
+          "Clove Extract",
+          "Curcumin Extract",
+          "Pepper Extract"
+        ]
+      }
+    }
+  },
+  "Non-Food Industrial": {
+    "Nutraceuticals & Dietary Supplements": {
+      "Single / Individual Spices": [
+        "Turmeric Powder",
+        "Dry Ginger Powder",
+        "Cinnamon Powder",
+        "Black Pepper Powder"
+      ],
+      "Blended / Mixed Spices": [
+        "Joint Health Spice Blends",
+        "Immunity Booster Spice Blends",
+        "Digestive Spice Blends"
+      ],
+      "Seasonings & Flavour Mixes": [
+        "Flavoured Nutraceutical Seasoning Blends"
+      ],
+      "Spice Derivatives & Extracts": [
+        "Curcumin Extract",
+        "Piperine Extract",
+        "Gingerol-Rich Extracts",
+        "Cinnamon Polyphenol Extracts",
+        "Capsaicin Extract"
+      ]
+    },
+    "Pharmaceuticals & Ayurveda": {
+      "Single / Individual Spices": [
+        "Turmeric",
+        "Dry Ginger",
+        "Black Pepper",
+        "Long Pepper",
+        "Clove",
+        "Cinnamon",
+        "Fennel",
+        "Carom Seeds (Ajwain)",
+        "Coriander"
+      ],
+      "Blended / Mixed Spices": [
+        "Classical Ayurvedic Spice Blends",
+        "Proprietary Herbal Spice Blends"
+      ],
+      "Seasonings & Flavour Mixes": [
+        "Flavour Blends for Syrups"
+      ],
+      "Spice Derivatives & Extracts": [
+        "Turmeric Extract",
+        "Piperine Extract",
+        "Ginger Extract",
+        "Clove Oil",
+        "Cinnamon Oil"
+      ]
+    },
+    "Cosmetics & Personal Care": {
+      "Single / Individual Spices": [
+        "Turmeric Powder",
+        "Dry Ginger Powder"
+      ],
+      "Blended / Mixed Spices": [
+        "Ubtan Blends",
+        "Herbal Face-Pack Blends"
+      ],
+      "Seasonings & Flavour Mixes": [
+        "Oral-Care Spice Flavours"
+      ],
+      "Spice Derivatives & Extracts": [
+        "Turmeric Extract",
+        "Clove Oil",
+        "Cinnamon Oil",
+        "Pepper Oil",
+        "Essential Oils"
+      ]
+    },
+    "Fragrances & Perfumery": {
+      "Single / Individual Spices": [
+        "Green Cardamom",
+        "Clove",
+        "Cinnamon",
+        "Nutmeg",
+        "Mace",
+        "Star Anise",
+        "Black Pepper"
+      ],
+      "Blended / Mixed Spices": [
+        "Warm Spice Fragrance Blends",
+        "Oriental Spice Fragrance Blends"
+      ],
+      "Seasonings & Flavour Mixes": [
+        "Oral-Care Flavour Fragrances"
+      ],
+      "Spice Derivatives & Extracts": [
+        "Cardamom Oil",
+        "Clove Oil",
+        "Cinnamon Oil",
+        "Nutmeg Oil",
+        "Mace Oil",
+        "Pepper Oil"
+      ]
+    },
+    "Natural Colours & Industrial Additives": {
+      "Single / Individual Spices": [
+        "Turmeric",
+        "Paprika",
+        "Chilli",
+        "Annatto-Type Materials"
+      ],
+      "Blended / Mixed Spices": [
+        "Custom Clean-Label Flavour Blends"
+      ],
+      "Seasonings & Flavour Mixes": [
+        "Functional Carrier-Blends"
+      ],
+      "Spice Derivatives & Extracts": [
+        "Colour Extracts",
+        "Oleoresins",
+        "Encapsulated Systems"
+      ]
+    }
+  }
+}
+

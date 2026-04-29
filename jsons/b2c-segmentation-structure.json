@@ -1,0 +1,109 @@
+{
+  "Household / Retail Consumption": {
+    "Single / Individual Spices": [
+      "Chilli",
+      "Turmeric",
+      "Coriander",
+      "Cumin",
+      "Black Pepper",
+      "White Pepper",
+      "Green Cardamom",
+      "Black Cardamom",
+      "Clove",
+      "Cinnamon",
+      "Cassia",
+      "Fennel",
+      "Fenugreek Seed",
+      "Fenugreek Leaf (Kasuri Methi)",
+      "Mustard Seed (Black)",
+      "Mustard Seed (Yellow)",
+      "Mustard Seed (Brown)",
+      "Bay Leaf",
+      "Nutmeg",
+      "Mace",
+      "Star Anise",
+      "Carom Seeds (Ajwain)",
+      "Nigella Seeds (Kalonji)",
+      "White Sesame Seeds",
+      "Black Sesame Seeds",
+      "Poppy Seeds",
+      "Dry Ginger",
+      "Dry Garlic",
+      "Tamarind"
+    ],
+    "Blended / Mixed Spices": [
+      "Garam Masala",
+      "Generic Curry Masala",
+      "Chhole Masala",
+      "Rajma Masala",
+      "Sabzi Masala",
+      "Pav Bhaji Masala",
+      "Biryani Masala",
+      "Pulao Masala",
+      "Meat Masala",
+      "Chicken Masala",
+      "Fish Masala",
+      "Egg Curry Masala",
+      "Sambar Masala",
+      "Rasam Masala",
+      "Chaat Masala",
+      "Pickle Masala",
+      "Paneer Masala",
+      "Tandoori Masala",
+      "BBQ Masala",
+      "Regional Punjabi Masala",
+      "Regional South Indian Masala",
+      "Regional Bengali Masala",
+      "Regional Maharashtrian Masala"
+    ],
+    "Seasonings & Flavour Mixes": [
+      "Snack Seasonings",
+      "Salad Seasonings",
+      "Curd / Raita Seasonings",
+      "Noodle Masala Sachets",
+      "Pasta Masala Sachets",
+      "Pizza Seasonings",
+      "Pasta Seasonings",
+      "Peri-Peri Seasonings",
+      "Global Cuisine Seasonings"
+    ],
+    "Spice Derivatives & Extracts": [
+      "Curcumin Extract (Retail Packs)",
+      "Pepper Extract (Retail Packs)",
+      "Mixed Spice Drops / Concentrates"
+    ]
+  },
+  "Home-Based / Micro Food Businesses": {
+    "Single / Individual Spices": [
+      "Chilli",
+      "Turmeric",
+      "Coriander",
+      "Cumin",
+      "Black Pepper",
+      "Green Cardamom",
+      "Clove",
+      "Cinnamon",
+      "Bay Leaf",
+      "Dry Ginger",
+      "Dry Garlic"
+    ],
+    "Blended / Mixed Spices": [
+      "Bulk Curry Masala Blends",
+      "Bulk Biryani Masala Blends",
+      "Bulk Tandoori Masala Blends",
+      "Bulk Chaat Masala Blends",
+      "Custom House-Recipe Masala Blends"
+    ],
+    "Seasonings & Flavour Mixes": [
+      "Tiffin Meal Seasonings",
+      "Home-Catering Snack Seasonings",
+      "Cloud-Kitchen Signature Seasonings"
+    ],
+    "Spice Derivatives & Extracts": [
+      "Chilli Oleoresin (Small Packs)",
+      "Turmeric Extract (Small Packs)",
+      "Mixed Spice Concentrates for Signature Gravies"
+    ]
+  }
+}
+

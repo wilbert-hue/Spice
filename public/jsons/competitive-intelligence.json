@@ -1,0 +1,704 @@
+{
+  "metadata": {
+    "market": "India Spices Market",
+    "year": 2024,
+    "currency": "INR",
+    "revenue_unit": "Cr.",
+    "total_companies": 30
+  },
+  "companies": [
+    {
+      "id": "catch-ds-group",
+      "name": "Catch (DS Group)",
+      "headquarters": "Noida, Uttar Pradesh",
+      "ceo": "Rajesh Virmani",
+      "yearEstablished": 1987,
+      "portfolio": "Spice Mixes, Whole Spices, Premium Blends",
+      "strategies": [
+        "Digital Marketing",
+        "E-commerce Growth",
+        "Premium Positioning"
+      ],
+      "regionalStrength": "North India, West India",
+      "overallRevenue": 739,
+      "segmentalRevenue": 277,
+      "marketShare": 6.4,
+      "color": "#D9ED92"
+    },
+    {
+      "id": "badshah-masala",
+      "name": "Badshah Masala",
+      "headquarters": "Mumbai, Maharashtra",
+      "ceo": "Anil Shah",
+      "yearEstablished": 1958,
+      "portfolio": "Traditional Masalas, Spice Blends, Regional Recipes",
+      "strategies": [
+        "Quality Focus",
+        "Market Expansion",
+        "Product Diversification"
+      ],
+      "regionalStrength": "West India, South India",
+      "overallRevenue": 737,
+      "segmentalRevenue": 254,
+      "marketShare": 6.4,
+      "color": "#184E77"
+    },
+    {
+      "id": "tata-sampann-tata-consumer-products",
+      "name": "Tata Sampann (Tata Consumer Products)",
+      "headquarters": "Mumbai, Maharashtra",
+      "ceo": "Sunil D'Souza",
+      "yearEstablished": 2016,
+      "portfolio": "Premium Spices, Organic Range, Whole Spices",
+      "strategies": [
+        "Premium Positioning",
+        "Trust Building",
+        "Quality Assurance"
+      ],
+      "regionalStrength": "Pan-India, Premium Segment",
+      "overallRevenue": 928,
+      "segmentalRevenue": 285,
+      "marketShare": 6.4,
+      "color": "#B5E48C"
+    },
+    {
+      "id": "aashirvaad-spices-itc-foods",
+      "name": "Aashirvaad Spices (ITC Foods)",
+      "headquarters": "Kolkata, West Bengal",
+      "ceo": "Hemant Malik",
+      "yearEstablished": 2010,
+      "portfolio": "Ground Spices, Whole Spices, Masala Blends",
+      "strategies": [
+        "Integrated Supply Chain",
+        "Quality Focus",
+        "Brand Extension"
+      ],
+      "regionalStrength": "Pan-India, Strong Distribution",
+      "overallRevenue": 730,
+      "segmentalRevenue": 319,
+      "marketShare": 6.4,
+      "color": "#1E6091"
+    },
+    {
+      "id": "everest",
+      "name": "Everest",
+      "headquarters": "Mumbai, Maharashtra",
+      "ceo": "Suresh Krishnan",
+      "yearEstablished": 1967,
+      "portfolio": "Whole Spices, Ground Spices, Blended Masalas, Spice Mixes",
+      "strategies": [
+        "Market Expansion",
+        "Product Innovation",
+        "Quality Focus",
+        "Brand Building"
+      ],
+      "regionalStrength": "Pan-India, Export Markets",
+      "overallRevenue": 738,
+      "segmentalRevenue": 278,
+      "marketShare": 5.3,
+      "color": "#52B69A"
+    },
+    {
+      "id": "mdh",
+      "name": "MDH",
+      "headquarters": "New Delhi, NCR",
+      "ceo": "Rajeev Gulati",
+      "yearEstablished": 1919,
+      "portfolio": "Traditional Masalas, Blended Spices, Regional Specialties",
+      "strategies": [
+        "Brand Building",
+        "Traditional Values",
+        "Wide Distribution Network"
+      ],
+      "regionalStrength": "Pan-India, Global Markets",
+      "overallRevenue": 1179,
+      "segmentalRevenue": 327,
+      "marketShare": 5.3,
+      "color": "#34A0A4"
+    },
+    {
+      "id": "eastern-condiments",
+      "name": "Eastern Condiments",
+      "headquarters": "Kochi, Kerala",
+      "ceo": "K.P. Poulose",
+      "yearEstablished": 1976,
+      "portfolio": "Traditional Kerala Spices, Curry Powders, Spice Blends",
+      "strategies": [
+        "Regional Expertise",
+        "Export Focus",
+        "Quality Standards"
+      ],
+      "regionalStrength": "South India, Export Markets",
+      "overallRevenue": 460,
+      "segmentalRevenue": 214,
+      "marketShare": 5.3,
+      "color": "#168AAD"
+    },
+    {
+      "id": "mtr-foods",
+      "name": "MTR Foods",
+      "headquarters": "Bangalore, Karnataka",
+      "ceo": "Sadashiv Nayak",
+      "yearEstablished": 1924,
+      "portfolio": "Traditional Masalas, Ready-to-Eat Spices, Regional Specialties",
+      "strategies": [
+        "Heritage Brand",
+        "Quality Focus",
+        "Product Innovation"
+      ],
+      "regionalStrength": "South India, Export Markets",
+      "overallRevenue": 454,
+      "segmentalRevenue": 165,
+      "marketShare": 5.3,
+      "color": "#99D98C"
+    },
+    {
+      "id": "sakthi-masala",
+      "name": "Sakthi Masala",
+      "headquarters": "Erode, Tamil Nadu",
+      "ceo": "S. Mahendran",
+      "yearEstablished": 1993,
+      "portfolio": "Traditional Tamil Masalas, Curry Powders, Spice Mixes",
+      "strategies": [
+        "Regional Dominance",
+        "Quality Focus",
+        "Direct Distribution"
+      ],
+      "regionalStrength": "Tamil Nadu, South India",
+      "overallRevenue": 586,
+      "segmentalRevenue": 219,
+      "marketShare": 4.3,
+      "color": "#76C893"
+    },
+    {
+      "id": "suhana-pravin-masalewale",
+      "name": "Suhana (Pravin Masalewale)",
+      "headquarters": "Mumbai, Maharashtra",
+      "ceo": "Pravin Parekh",
+      "yearEstablished": 1983,
+      "portfolio": "Blended Masalas, Curry Powders, Spice Mixes",
+      "strategies": [
+        "Affordable Pricing",
+        "Wide Distribution",
+        "Product Range"
+      ],
+      "regionalStrength": "West India, Pan-India",
+      "overallRevenue": 480,
+      "segmentalRevenue": 193,
+      "marketShare": 4.3,
+      "color": "#40916C"
+    },
+    {
+      "id": "priya-foods",
+      "name": "Priya Foods",
+      "headquarters": "Hyderabad, Telangana",
+      "ceo": "K. Ramakrishna Rao",
+      "yearEstablished": 1980,
+      "portfolio": "Pickles, Spice Pastes, Traditional Masalas",
+      "strategies": [
+        "Product Diversification",
+        "Regional Strength",
+        "Export Growth"
+      ],
+      "regionalStrength": "South India, Andhra Pradesh",
+      "overallRevenue": 451,
+      "segmentalRevenue": 236,
+      "marketShare": 4.3,
+      "color": "#2D6A4F"
+    },
+    {
+      "id": "sunrise-itc-foods",
+      "name": "Sunrise (ITC Foods)",
+      "headquarters": "Kolkata, West Bengal",
+      "ceo": "Hemant Malik",
+      "yearEstablished": 2012,
+      "portfolio": "Premium Spices, Organic Range, Specialty Blends",
+      "strategies": [
+        "Premium Positioning",
+        "Quality Focus",
+        "Brand Extension"
+      ],
+      "regionalStrength": "Pan-India, Premium Segment",
+      "overallRevenue": 592,
+      "segmentalRevenue": 195,
+      "marketShare": 4.3,
+      "color": "#B7E4C7"
+    },
+    {
+      "id": "aachi-masala",
+      "name": "Aachi Masala",
+      "headquarters": "Chennai, Tamil Nadu",
+      "ceo": "P. Chinnadurai",
+      "yearEstablished": 1995,
+      "portfolio": "South Indian Masalas, Curry Powders, Traditional Blends",
+      "strategies": [
+        "Regional Focus",
+        "E-commerce Growth",
+        "Product Innovation"
+      ],
+      "regionalStrength": "South India, Tamil Nadu",
+      "overallRevenue": 405,
+      "segmentalRevenue": 172,
+      "marketShare": 3.2,
+      "color": "#1A759F"
+    },
+    {
+      "id": "ramdev-masala",
+      "name": "Ramdev Masala",
+      "headquarters": "Ahmedabad, Gujarat",
+      "ceo": "Ramesh Patel",
+      "yearEstablished": 1992,
+      "portfolio": "Gujarati Masalas, Spice Blends, Regional Specialties",
+      "strategies": [
+        "Regional Focus",
+        "Quality Assurance",
+        "Competitive Pricing"
+      ],
+      "regionalStrength": "Gujarat, West India",
+      "overallRevenue": 402,
+      "segmentalRevenue": 144,
+      "marketShare": 3.2,
+      "color": "#081C15"
+    },
+    {
+      "id": "annapurna-masala",
+      "name": "Annapurna Masala",
+      "headquarters": "Pune, Maharashtra",
+      "ceo": "Prakash Kulkarni",
+      "yearEstablished": 1990,
+      "portfolio": "Maharashtrian Masalas, Spice Blends, Traditional Products",
+      "strategies": [
+        "Regional Strength",
+        "Product Quality",
+        "Direct Distribution"
+      ],
+      "regionalStrength": "Maharashtra, Pune Region",
+      "overallRevenue": 312,
+      "segmentalRevenue": 92,
+      "marketShare": 3.2,
+      "color": "#2D6A4F"
+    },
+    {
+      "id": "pushp-masala",
+      "name": "Pushp Masala",
+      "headquarters": "Indore, Madhya Pradesh",
+      "ceo": "Vinod Agrawal",
+      "yearEstablished": 1985,
+      "portfolio": "Traditional Masalas, Blended Spices, Regional Products",
+      "strategies": [
+        "Regional Presence",
+        "Value Pricing",
+        "Distribution Network"
+      ],
+      "regionalStrength": "Central India, MP",
+      "overallRevenue": 307,
+      "segmentalRevenue": 99,
+      "marketShare": 2.1,
+      "color": "#52B788"
+    },
+    {
+      "id": "goldiee-masale",
+      "name": "Goldiee Masale",
+      "headquarters": "Delhi, NCR",
+      "ceo": "Sanjay Gupta",
+      "yearEstablished": 1978,
+      "portfolio": "North Indian Masalas, Spice Blends, Traditional Recipes",
+      "strategies": [
+        "Regional Focus",
+        "Product Innovation",
+        "Brand Building"
+      ],
+      "regionalStrength": "North India, Delhi NCR",
+      "overallRevenue": 310,
+      "segmentalRevenue": 141,
+      "marketShare": 2.1,
+      "color": "#95D5B2"
+    },
+    {
+      "id": "shree-krishna-masala",
+      "name": "Shree Krishna Masala",
+      "headquarters": "Rajkot, Gujarat",
+      "ceo": "Krishna Patel",
+      "yearEstablished": 1995,
+      "portfolio": "Gujarati Masalas, Traditional Blends, Spice Mixes",
+      "strategies": [
+        "Regional Dominance",
+        "Traditional Recipes",
+        "Value Pricing"
+      ],
+      "regionalStrength": "Gujarat, Saurashtra",
+      "overallRevenue": 454,
+      "segmentalRevenue": 160,
+      "marketShare": 2.1,
+      "color": "#D8F3DC"
+    },
+    {
+      "id": "rajesh-masala",
+      "name": "Rajesh Masala",
+      "headquarters": "Jaipur, Rajasthan",
+      "ceo": "Rajesh Sharma",
+      "yearEstablished": 1988,
+      "portfolio": "Rajasthani Masalas, Traditional Spices, Regional Blends",
+      "strategies": [
+        "Regional Focus",
+        "Traditional Methods",
+        "Quality Control"
+      ],
+      "regionalStrength": "Rajasthan, North India",
+      "overallRevenue": 461,
+      "segmentalRevenue": 108,
+      "marketShare": 2.1,
+      "color": "#40916C"
+    },
+    {
+      "id": "ruchi-masala",
+      "name": "Ruchi Masala",
+      "headquarters": "Surat, Gujarat",
+      "ceo": "Ruchit Shah",
+      "yearEstablished": 2000,
+      "portfolio": "Gujarati Masalas, Spice Mixes, Regional Specialties",
+      "strategies": [
+        "Competitive Pricing",
+        "Regional Focus",
+        "Product Innovation"
+      ],
+      "regionalStrength": "Gujarat, South Gujarat",
+      "overallRevenue": 467,
+      "segmentalRevenue": 136,
+      "marketShare": 2.1,
+      "color": "#1B4332"
+    },
+    {
+      "id": "orika",
+      "name": "Orika",
+      "headquarters": "Bangalore, Karnataka",
+      "ceo": "Suresh Nagaraj",
+      "yearEstablished": 2008,
+      "portfolio": "Premium Spices, Organic Range, Specialty Blends",
+      "strategies": [
+        "Premium Positioning",
+        "Organic Focus",
+        "E-commerce Growth"
+      ],
+      "regionalStrength": "South India, Urban Markets",
+      "overallRevenue": 291,
+      "segmentalRevenue": 97,
+      "marketShare": 2.1,
+      "color": "#081C15"
+    },
+    {
+      "id": "keya-foods",
+      "name": "Keya Foods",
+      "headquarters": "Delhi, NCR",
+      "ceo": "Atul Gupta",
+      "yearEstablished": 2005,
+      "portfolio": "International Spices, Premium Blends, Gourmet Products",
+      "strategies": [
+        "Premium Positioning",
+        "Product Innovation",
+        "Modern Retail"
+      ],
+      "regionalStrength": "Urban India, Metro Cities",
+      "overallRevenue": 297,
+      "segmentalRevenue": 138,
+      "marketShare": 2.1,
+      "color": "#52B788"
+    },
+    {
+      "id": "urban-platter",
+      "name": "Urban Platter",
+      "headquarters": "Mumbai, Maharashtra",
+      "ceo": "Mihir Rajda",
+      "yearEstablished": 2015,
+      "portfolio": "Gourmet Spices, International Blends, Premium Products",
+      "strategies": [
+        "E-commerce Focus",
+        "Premium Positioning",
+        "Digital Marketing"
+      ],
+      "regionalStrength": "Urban India, Online Markets",
+      "overallRevenue": 437,
+      "segmentalRevenue": 166,
+      "marketShare": 2.1,
+      "color": "#95D5B2"
+    },
+    {
+      "id": "organic-tattva",
+      "name": "Organic Tattva",
+      "headquarters": "Ahmedabad, Gujarat",
+      "ceo": "Viral Shah",
+      "yearEstablished": 2010,
+      "portfolio": "Organic Spices, Natural Products, Health-focused Range",
+      "strategies": [
+        "Organic Focus",
+        "Health Positioning",
+        "E-commerce Growth"
+      ],
+      "regionalStrength": "Urban India, Health-conscious Segment",
+      "overallRevenue": 110,
+      "segmentalRevenue": 64,
+      "marketShare": 2.1,
+      "color": "#B7E4C7"
+    },
+    {
+      "id": "natureland-organics",
+      "name": "Natureland Organics",
+      "headquarters": "Bangalore, Karnataka",
+      "ceo": "Rajesh Krishnan",
+      "yearEstablished": 2005,
+      "portfolio": "Organic Spices, Natural Products, Eco-friendly Range",
+      "strategies": [
+        "Organic Focus",
+        "Sustainability",
+        "E-commerce Growth"
+      ],
+      "regionalStrength": "South India, Urban Markets",
+      "overallRevenue": 176,
+      "segmentalRevenue": 84,
+      "marketShare": 2.1,
+      "color": "#40916C"
+    },
+    {
+      "id": "24-mantra-organic",
+      "name": "24 Mantra Organic",
+      "headquarters": "Hyderabad, Telangana",
+      "ceo": "Vijay Kumar",
+      "yearEstablished": 2004,
+      "portfolio": "Certified Organic Spices, Natural Products, Health Range",
+      "strategies": [
+        "Organic Certification",
+        "Export Focus",
+        "Premium Positioning"
+      ],
+      "regionalStrength": "Pan-India, Export Markets",
+      "overallRevenue": 130,
+      "segmentalRevenue": 73,
+      "marketShare": 1.1,
+      "color": "#D8F3DC"
+    },
+    {
+      "id": "organic-india",
+      "name": "Organic India",
+      "headquarters": "Lucknow, Uttar Pradesh",
+      "ceo": "Bharat Mitra",
+      "yearEstablished": 1997,
+      "portfolio": "Organic Spices, Herbal Products, Wellness Range",
+      "strategies": [
+        "Organic Certification",
+        "Wellness Focus",
+        "Export Growth"
+      ],
+      "regionalStrength": "Pan-India, Global Markets",
+      "overallRevenue": 169,
+      "segmentalRevenue": 57,
+      "marketShare": 1.1,
+      "color": "#2D6A4F"
+    },
+    {
+      "id": "sprig",
+      "name": "Sprig",
+      "headquarters": "Bangalore, Karnataka",
+      "ceo": "Manish Gupta",
+      "yearEstablished": 2016,
+      "portfolio": "Organic Spices, Premium Blends, Health-focused Products",
+      "strategies": [
+        "E-commerce Focus",
+        "Premium Positioning",
+        "Digital Marketing"
+      ],
+      "regionalStrength": "Urban India, Online Markets",
+      "overallRevenue": 206,
+      "segmentalRevenue": 49,
+      "marketShare": 1.1,
+      "color": "#1B4332"
+    },
+    {
+      "id": "bb-royal-bigbasket-private-label",
+      "name": "BB Royal (BigBasket Private Label)",
+      "headquarters": "Bangalore, Karnataka",
+      "ceo": "BigBasket Team",
+      "yearEstablished": 2019,
+      "portfolio": "Private Label Spices, Value Range, Everyday Products",
+      "strategies": [
+        "Value Pricing",
+        "E-commerce Exclusive",
+        "Wide Range"
+      ],
+      "regionalStrength": "Urban India, BigBasket Network",
+      "overallRevenue": 166,
+      "segmentalRevenue": 85,
+      "marketShare": 1.1,
+      "color": "#081C15"
+    },
+    {
+      "id": "vedaka-amazon-private-label",
+      "name": "Vedaka (Amazon Private Label)",
+      "headquarters": "Bangalore, Karnataka",
+      "ceo": "Amazon India Team",
+      "yearEstablished": 2018,
+      "portfolio": "Private Label Spices, Value Range, Essential Products",
+      "strategies": [
+        "Competitive Pricing",
+        "E-commerce Exclusive",
+        "Quality Assurance"
+      ],
+      "regionalStrength": "Pan-India, Amazon Network",
+      "overallRevenue": 144,
+      "segmentalRevenue": 72,
+      "marketShare": 1.1,
+      "color": "#52B788"
+    }
+  ],
+  "market_share_data": [
+    {
+      "company": "Catch (DS Group)",
+      "marketShare": 6.4,
+      "color": "#D9ED92"
+    },
+    {
+      "company": "Badshah Masala",
+      "marketShare": 6.4,
+      "color": "#184E77"
+    },
+    {
+      "company": "Tata Sampann (Tata Consumer Products)",
+      "marketShare": 6.4,
+      "color": "#B5E48C"
+    },
+    {
+      "company": "Aashirvaad Spices (ITC Foods)",
+      "marketShare": 6.4,
+      "color": "#1E6091"
+    },
+    {
+      "company": "Everest",
+      "marketShare": 5.3,
+      "color": "#52B69A"
+    },
+    {
+      "company": "MDH",
+      "marketShare": 5.3,
+      "color": "#34A0A4"
+    },
+    {
+      "company": "Eastern Condiments",
+      "marketShare": 5.3,
+      "color": "#168AAD"
+    },
+    {
+      "company": "MTR Foods",
+      "marketShare": 5.3,
+      "color": "#99D98C"
+    },
+    {
+      "company": "Sakthi Masala",
+      "marketShare": 4.3,
+      "color": "#76C893"
+    },
+    {
+      "company": "Suhana (Pravin Masalewale)",
+      "marketShare": 4.3,
+      "color": "#40916C"
+    },
+    {
+      "company": "Priya Foods",
+      "marketShare": 4.3,
+      "color": "#2D6A4F"
+    },
+    {
+      "company": "Sunrise (ITC Foods)",
+      "marketShare": 4.3,
+      "color": "#B7E4C7"
+    },
+    {
+      "company": "Aachi Masala",
+      "marketShare": 3.2,
+      "color": "#1A759F"
+    },
+    {
+      "company": "Ramdev Masala",
+      "marketShare": 3.2,
+      "color": "#081C15"
+    },
+    {
+      "company": "Annapurna Masala",
+      "marketShare": 3.2,
+      "color": "#2D6A4F"
+    },
+    {
+      "company": "Pushp Masala",
+      "marketShare": 2.1,
+      "color": "#52B788"
+    },
+    {
+      "company": "Goldiee Masale",
+      "marketShare": 2.1,
+      "color": "#95D5B2"
+    },
+    {
+      "company": "Shree Krishna Masala",
+      "marketShare": 2.1,
+      "color": "#D8F3DC"
+    },
+    {
+      "company": "Rajesh Masala",
+      "marketShare": 2.1,
+      "color": "#40916C"
+    },
+    {
+      "company": "Ruchi Masala",
+      "marketShare": 2.1,
+      "color": "#1B4332"
+    },
+    {
+      "company": "Orika",
+      "marketShare": 2.1,
+      "color": "#081C15"
+    },
+    {
+      "company": "Keya Foods",
+      "marketShare": 2.1,
+      "color": "#52B788"
+    },
+    {
+      "company": "Urban Platter",
+      "marketShare": 2.1,
+      "color": "#95D5B2"
+    },
+    {
+      "company": "Organic Tattva",
+      "marketShare": 2.1,
+      "color": "#B7E4C7"
+    },
+    {
+      "company": "Natureland Organics",
+      "marketShare": 2.1,
+      "color": "#40916C"
+    },
+    {
+      "company": "24 Mantra Organic",
+      "marketShare": 1.1,
+      "color": "#D8F3DC"
+    },
+    {
+      "company": "Organic India",
+      "marketShare": 1.1,
+      "color": "#2D6A4F"
+    },
+    {
+      "company": "Sprig",
+      "marketShare": 1.1,
+      "color": "#1B4332"
+    },
+    {
+      "company": "BB Royal (BigBasket Private Label)",
+      "marketShare": 1.1,
+      "color": "#081C15"
+    },
+    {
+      "company": "Vedaka (Amazon Private Label)",
+      "marketShare": 1.1,
+      "color": "#52B788"
+    }
+  ]
+}
